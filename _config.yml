@@ -1,4 +1,4 @@
-description: Just a simple Hello World site.
+title: ""
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache

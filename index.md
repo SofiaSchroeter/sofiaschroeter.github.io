@@ -1,6 +1,8 @@
 ---
-title: Hello World
-layout: default
+layout: home
+header:
+  image: "/assets/images/large_photo.jpg"
+  caption: "Sofia Schroeter"
 ---
 
 # Sofia Schroeter

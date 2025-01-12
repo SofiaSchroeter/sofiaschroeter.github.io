@@ -1,7 +1,15 @@
-title: My Jekyll Site
 description: Just a simple Hello World site.
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
-# You can add more settings later
+footer:
+  # This tells Minimal Mistakes to use your custom HTML for the footer text
+  custom_text: |
+    <p>
+      UNIL | Université de Lausanne – HEC<br>
+      Department of Economics<br>
+      Internef office n°533<br>
+      CH – 1015 Lausanne<br>
+      sofia.schroeter@unil.ch
+    </p>

@@ -1,7 +1,12 @@
 sofiaschroeter:
   name        : "Sofia Schroeter"
   avatar      : "/assets/images/sofia.jpg"   # path to your image
-  bio         : "PhD candidate in Economics..."
+  bio: |
+    Université de Lausanne – HEC
+    Department of Economics
+    Internef office n°533
+    CH – 1015 Lausanne
+    sofia.schroeter@unil.ch
   email       : "sofia.schroeter@unil.ch"
   linkedin    : "sofia-schroeter"
   # optional: other fields like uri, email, etc.

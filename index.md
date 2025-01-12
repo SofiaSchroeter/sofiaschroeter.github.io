@@ -5,8 +5,6 @@ header:
   caption: "Sofia Schroeter"
 ---
 
-# Sofia Schroeter
-
 <img src="images/sofia_schroeter.jpg" alt="Profile picture" width="200" />
 
 Welcome! I'm a PhD candidate in Economics at the University of Lausanne under the supervision of [Rafael Lalive](https://sites.google.com/site/rafaellalive/). 

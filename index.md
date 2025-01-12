@@ -1,8 +1,8 @@
 ---
-layout: home
-header:
-  image: "images/sofia_schroeter.jpg"
-  caption: "Sofia Schroeter"
+layout: home               # or another layout that supports author_profile
+title: "Sofia Schroeter"
+author_profile: true         # Tells the layout to show the author box
+author: sofiaschroeter       # Matches the key in authors.yml
 ---
 
 Welcome! I'm a PhD candidate in Economics at the University of Lausanne under the supervision of [Rafael Lalive](https://sites.google.com/site/rafaellalive/). 

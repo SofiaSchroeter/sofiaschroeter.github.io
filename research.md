@@ -1,10 +1,9 @@
 ---
 layout: single
-title: "Research"
 permalink: /research/
 ---
 
-# Working papers
+## Working papers
 
 [School Closures and Parental Labor Supply: Differential Effects of Anticipated and Unanticipated Closures](https://docs.iza.org/dp17371.pdf) (with Kalaivani Karunanethy and Rafael Lalive)
 
@@ -12,14 +11,14 @@ permalink: /research/
 This paper studies labor supply responses of parents to anticipated school closures due to school holidays and unanticipated school closures due to the COVID-19 pandemic in Switzerland. In Switzerland, the timing of school breaks varies by region, and, using this source of variation, we find that both fathers and mothers reduce hours worked in response to school holiday closures, compared to non-parents. To identify the effects of pandemic closures, we focus on resilient workers – those in occupations that are resilient to the pandemic and whose labor supply remains unaffected by Swiss workplace closures. We find that pandemic school closures reduced hours worked of mothers and fathers, but somewhat less than for non-parents. Among mothers, we find that the unanticipated pandemic school closures had almost no negative effects. For fathers, we find that labor supply somewhat increases, compared to non-fathers. When we probe this result further, we find that fathers of children who are at least 12 years old and/or fathers who work in an occupation that is compatible with working from home, expand labor supply to non-fathers. This suggests that parents were able to accommodate the increased child care needs due to lack of in-person schooling.
 
 
-# Work in progress
+## Work in progress
 
 The Impact of Trade Shocks on Job Search Behavior (with Fabrizio Colella, Rafael Lalive and Alberto Marcato)
 
 Corporate Taxation and Export Behavior (single-authored)
 
 
-# Policy work
+## Policy work
 
 [An Economic Analysis of the US-China Trade Conflict](https://www.econstor.eu/bitstream/10419/215536/1/1693479710.pdf) (with Eddy Bekkers)
 

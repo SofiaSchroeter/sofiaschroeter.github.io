@@ -13,4 +13,4 @@ Prior to starting the PhD, I worked as a Research Assistant at ZEW Mannheim, the
 
 My research interests include Labour Economics, Applied Microeconomics and International Trade.
 
-You can find my CV here.
+You can find my CV [here](/CV/).

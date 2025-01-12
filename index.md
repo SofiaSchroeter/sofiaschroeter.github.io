@@ -1,11 +1,9 @@
 ---
 layout: home
 header:
-  image: "/assets/images/large_photo.jpg"
+  image: "images/sofia_schroeter.jpg"
   caption: "Sofia Schroeter"
 ---
-
-<img src="images/sofia_schroeter.jpg" alt="Profile picture" width="200" />
 
 Welcome! I'm a PhD candidate in Economics at the University of Lausanne under the supervision of [Rafael Lalive](https://sites.google.com/site/rafaellalive/). 
 I hold a Master in International Economics from the Graduate Institute Geneva and a Bachelor in International Relations from the University of Geneva. 

@@ -1,0 +1,7 @@
+sofiaschroeter:
+  name        : "Sofia Schroeter"
+  avatar      : "/assets/images/sofia.jpg"   # path to your image
+  bio         : "PhD candidate in Economics..."
+  email       : "sofia.schroeter@unil.ch"
+  linkedin    : "sofia-schroeter"
+  # optional: other fields like uri, email, etc.

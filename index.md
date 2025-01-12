@@ -5,7 +5,7 @@ author_profile: true         # Tells the layout to show the author box
 author: sofiaschroeter       # Matches the key in authors.yml
 ---
 
-Welcome! I'm a PhD candidate in Economics at the University of Lausanne under the supervision of [Rafael Lalive](https://sites.google.com/site/rafaellalive/). 
+Welcome! I'm a PhD candidate in Economics at the University of Lausanne under the supervision of [Rafael Lalive](https://sites.google.com/site/rafaellalive/) and [Fabrizio Colella](https://fabriziocolella.com/). 
 I hold a Master in International Economics from the Graduate Institute Geneva and a Bachelor in International Relations from the University of Geneva. 
 I also successfully completed the Swiss Program for Beginning Doctoral Students in Economics. 
 
@@ -13,4 +13,4 @@ Prior to starting the PhD, I worked as a Research Assistant at ZEW Mannheim, the
 
 My research interests include Labour Economics, Applied Microeconomics and International Trade.
 
-You can find my CV [here](/CV/).
+You can find my CV [here](/cv/).

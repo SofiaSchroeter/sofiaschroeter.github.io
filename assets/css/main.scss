@@ -42,10 +42,10 @@ search: false
   width: 100% !important;
 }
 
-.page__content {
-  text-align: justify;
+.home .page__content {
+  text-align: justify !important;
   text-justify: inter-word;
-  hyphens: auto;  // Improve word wrapping for justified text
+  hyphens: auto;
 }
 
 body {

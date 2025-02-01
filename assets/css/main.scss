@@ -31,6 +31,23 @@ search: false
   margin: 0 auto;
 }
 
+.wrapper {
+  max-width: 100% !important;  // Remove width constraint
+  width: 100% !important;
+  padding: 0 2rem;  // Add small side padding to prevent text from touching edges
+}
+
+.page {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.page__content {
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;  // Improve word wrapping for justified text
+}
+
 body {
   font-size: 0.875em; 
 }

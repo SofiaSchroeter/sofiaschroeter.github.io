@@ -22,6 +22,16 @@ search: false
   height: auto;            // Maintain aspect ratio
 }
 
+.page__content {
+  max-width: 900px;   // Default is around 720px; increase as needed
+  margin: 0 auto;     // Keep it centered
+}
+
+.archive, .home, .page {
+  max-width: 900px;   // Apply the same width to other sections
+  margin: 0 auto;
+}
+
 body {
   font-size: 0.875em; 
 }

@@ -10,7 +10,13 @@ search: false
 
 // Custom avatar size
 .author__avatar {
-  width: 80px;  // Adjust to desired size
-  height: 80px;
+  width: 200px;  // Adjust to desired size
+  height: auto;
   border-radius: 50%;  // Maintain circular shape
+}
+
+.author__avatar img {
+  width: 100% !important;  // Force full width inside container
+  max-width: none;         // Remove any max-width restrictions
+  height: auto;            // Maintain aspect ratio
 }

@@ -1,6 +1,7 @@
 sofiaschroeter:
   name        : "Sofia Schroeter"
   avatar      : "/assets/images/sofia.jpg"   # path to your image
+  avatar_size : 200
   bio: |
     Université de Lausanne – HEC |
     Department of Economics |

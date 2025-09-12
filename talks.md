@@ -4,6 +4,7 @@ title: "Talks"
 permalink: /talks/
 ---
 
+* Public Finance Seminar, UC Berkeley, United States, May 2025
 * Labor Lunch Seminar, UC Berkeley, United States, February 2025
 * European Association of Labour Economists (EALE), NHH Bergen, Norway, September 2024
 * European Society of Population Economics (ESPE), Erasmus School of Economics Rotterdam, Netherlands, June 2024

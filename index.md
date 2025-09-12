@@ -13,6 +13,6 @@ Prior to starting the PhD, I worked as a Research Assistant at ZEW Mannheim, the
 
 My research interests include Labour Economics, Applied Microeconomics and International Trade.
 
-I am visiting UC Berkeley from January to May 2025, hosted by Patrick Kline.
+I have visited UC Berkeley from January to May 2025, hosted by Patrick Kline.
 
 You can find my CV [here](/cv/).

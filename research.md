@@ -14,7 +14,7 @@ This paper studies labor supply responses of parents to anticipated school closu
 
 ## Work in progress
 
-The Impact of Trade Shocks on Job Search Behavior (with Fabrizio Colella, Rafael Lalive and Alberto Marcato)
+Gender Differences in Job Finding after Unemployment (with Fabrizio Colella, Rafael Lalive and Alberto Marcato)
 
 Corporate Taxation and Export Behavior (single-authored)
 

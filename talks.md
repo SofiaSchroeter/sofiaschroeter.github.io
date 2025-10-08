@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 ---
 
-* 7th Swiss Workshop on Local Public Finance and Regional Economics
+* 7th Swiss Workshop on Local Public Finance and Regional Economics, USI Lugano, Switzerland, October 2025
 * Public Finance Seminar, UC Berkeley, United States, May 2025
 * Labor Lunch Seminar, UC Berkeley, United States, February 2025
 * European Association of Labour Economists (EALE), NHH Bergen, Norway, September 2024

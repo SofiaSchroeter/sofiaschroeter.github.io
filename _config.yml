@@ -2,6 +2,7 @@ title: ""
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Tie the 'main' menu to the top navigation
 navigation:

@@ -14,10 +14,9 @@ This paper studies labor supply responses of parents to anticipated school closu
 
 ## Work in progress
 
+Do corporate tax cuts affect exporters? (single-authored)
+
 Gender Differences in Job Finding after Unemployment (with Fabrizio Colella, Rafael Lalive and Alberto Marcato)
-
-Corporate Taxation and Export Behavior (single-authored)
-
 
 ## Policy work
 

@@ -11,7 +11,7 @@ I also successfully completed the Swiss Program for Beginning Doctoral Students 
 
 Prior to starting the PhD, I worked as a Research Assistant at ZEW Mannheim, the World Trade Organization and the Swiss National Bank.
 
-My research interests include Labour Economics, Applied Microeconomics and International Trade.
+My research interests include Labor Economics, Public Economics and International Trade.
 
 I have visited UC Berkeley from January to May 2025, hosted by Patrick Kline.
 

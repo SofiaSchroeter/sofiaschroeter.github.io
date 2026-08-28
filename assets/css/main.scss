@@ -45,3 +45,20 @@ search: false
 body {
   font-size: 0.8125em; 
 }
+
+// iOS Safari does not reliably scroll multi-page PDFs inside an iframe.
+.cv-mobile-view {
+  display: none;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+@media (max-width: 900px), (hover: none) and (pointer: coarse) {
+  .cv-mobile-view {
+    display: block;
+  }
+
+  .cv-desktop-view {
+    display: none;
+  }
+}

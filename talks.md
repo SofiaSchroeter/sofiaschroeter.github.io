@@ -4,6 +4,8 @@ title: "Talks"
 permalink: /talks/
 ---
 
+* Swiss Society of Economics and Statistics Annual Conference (SSES), University of St. Gallen, Switzerland, June 2026
+* 7th Workshop of the Swiss Network on Public Economics (SNoPE), University of Basel, Switzerland, March 2026
 * 7th Swiss Workshop on Local Public Finance and Regional Economics, USI Lugano, Switzerland, October 2025
 * Public Finance Seminar, UC Berkeley, United States, May 2025
 * Labor Lunch Seminar, UC Berkeley, United States, February 2025

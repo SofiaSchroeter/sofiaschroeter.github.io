@@ -20,7 +20,7 @@ Do corporate tax cuts affect exporters? (single-authored)
 This paper studies how domestic corporate tax cuts affect exporters' outcomes. I exploit sizeable sub-federal tax cuts following a 2020 tax reform in Switzerland, which led some municipalities to reduce corporate tax rates by up to 10 p.p. from an average pre-reform level of about 20 percent. Combining municipality-level corporate tax rates with the universe of Swiss customs export transactions from 2016 to 2023, I implement a difference-in-differences design that compares firms selling the same product to the same destination in the same year, but facing different local tax rates. Elasticity estimates show that a 1% increase in the net-of-tax rate raises export value by 0.62%, an effect that arises mainly because exporters sell more (export weight increases by 0.71%) rather than changes in unit price (-0.09%). To shed light on the underlying mechanism, I compare intra-firm and arm's-length export transactions. I find no strong evidence that intra-firm trade responds systematically differently to the tax cuts, particularly along the price margin. Overall, the findings suggest that lower corporate taxes improve exporters' competitiveness by lowering the user cost of capital, thereby stimulating real export activity rather than reform-induced profit shifting via customs prices.
 </p>
   
-Gender Differences in Job Finding after Unemployment (with Fabrizio Colella, Rafael Lalive and Alberto Marcato)
+Firm Tenure vs. Occupation-Specific Human Capital in Job Displacement (with Fabrizio Colella, Rafael Lalive and Alberto Marcato)
 
 ## Policy work
 
